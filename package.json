@@ -1,4 +1,6 @@
 {
+  "main": "index.js",
+  "type": "module",
   "dependencies": {
     "line-reader": "^0.4.0",
     "prompt": "^1.3.0"
